@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".onboarding3"
+    android:weightSum="2"
+    android:background="@color/yellow">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ass3"
+        android:layout_weight="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:backgroundTint="@color/white"
+        android:layout_height="0dp"
+        app:cardCornerRadius="48dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Local"
+                android:gravity="center"
+                android:textSize="35sp"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/bevietnam_regular"
+                android:textStyle="bold"/>
+            <TextView
+                android:layout_width="310dp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="28dp"
+                android:textSize="14sp"
+                android:fontFamily="@font/bevietnam_regular"
+                android:text="We love the earth and know you do too! Join us in reducing our local carbon footprint one order at a time. "/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Join the movement!"
+                android:backgroundTint="@color/yellow"
+                android:layout_gravity="center"
+                android:textSize="18dp"
+                android:id="@+id/btn3"
+                android:fontFamily="@font/bevietnam_regular"
+                android:layout_marginTop="28dp"/>
+            <TextView
+                android:id="@+id/login_et"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Login"
+                android:fontFamily="@font/bevietnam_regular"
+                android:layout_gravity="center"
+                android:layout_marginTop="12dp"
+                android:textSize="14sp"/>
+            <View
+                android:layout_width="32dp"
+                android:layout_height="1dp"
+                android:background="@color/black"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>
