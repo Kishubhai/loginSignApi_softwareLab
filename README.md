@@ -1,1 +1,12 @@
 This app contains login and registration using rest api(retrofit) instead of firebase authentication 
+![a11](https://github.com/Kishubhai/loginSignApi_softwareLab/assets/106054122/5f7dd856-0f6d-4d58-bea2-cccdcf169654)
+![a10](https://github.com/Kishubhai/loginSignApi_softwareLab/assets/106054122/73cf3e8d-d490-4e8e-96dd-072cfc896099)
+![a9](https://github.com/Kishubhai/loginSignApi_softwareLab/assets/106054122/95e465b1-ae5a-499a-aeca-6f103c712c79)
+![a8](https://github.com/Kishubhai/loginSignApi_softwareLab/assets/106054122/493bc7ea-d5af-4426-b673-42577f5dce5c)
+![a7](https://github.com/Kishubhai/loginSignApi_softwareLab/assets/106054122/7c552b4c-79e9-42f8-b890-333fdfca68f3)
+![a6](https://github.com/Kishubhai/loginSignApi_softwareLab/assets/106054122/c52ca58f-765a-4400-bcfb-62d81f8449c7)
+![a5](https://github.com/Kishubhai/loginSignApi_softwareLab/assets/106054122/880613db-5b4e-4c7c-b154-836cb1c5e40a)
+![a4](https://github.com/Kishubhai/loginSignApi_softwareLab/assets/106054122/ba4f8459-2ac5-4434-ba04-c155bbae6612)
+![a3](https://github.com/Kishubhai/loginSignApi_softwareLab/assets/106054122/07776f29-03c3-4563-81a7-28873d726be5)
+![a2](https://github.com/Kishubhai/loginSignApi_softwareLab/assets/106054122/692529a6-d6a1-4030-9a63-098986579491)
+![a1](https://github.com/Kishubhai/loginSignApi_softwareLab/assets/106054122/bf76c744-e604-4522-addb-9a2b6a56eb61)
